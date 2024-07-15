@@ -10,8 +10,8 @@ import (
 
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/scribe"
-	phphttpd "github.com/paketo-buildpacks/php-httpd"
-	"github.com/paketo-buildpacks/php-httpd/fakes"
+	phphttpd "github.com/initializ-buildpacks/php-httpd"
+	"github.com/initializ-buildpacks/php-httpd/fakes"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"

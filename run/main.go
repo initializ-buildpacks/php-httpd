@@ -5,7 +5,7 @@ import (
 
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/scribe"
-	phphttpd "github.com/paketo-buildpacks/php-httpd"
+	phphttpd "github.com/initializ-buildpacks/php-httpd"
 )
 
 func main() {

@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/paketo-buildpacks/packit/v2/scribe"
-	phphttpd "github.com/paketo-buildpacks/php-httpd"
+	phphttpd "github.com/initializ-buildpacks/php-httpd"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"
